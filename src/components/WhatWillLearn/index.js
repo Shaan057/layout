@@ -9,33 +9,33 @@ const WhatWillYouLearn = () =>
         <ul className='what-you-learn-list'>
             <li className='what-learn-list-item'>
                 <p className='what-text'>Knowledge Level</p>
-                <div>
+                <div className='what-div'>
                     <ul className='what-list'>
-                        <li className='what-list-item'><GoDotFill className='go-dot' /> Lorem Ipsum Lorem Ipsum</li>
-                        <li className='what-list-item'><GoDotFill className='go-dot' /> Lorem Ipsum Lorem Ipsum</li>
-                        <li className='what-list-item'><GoDotFill className='go-dot' /> Lorem Ipsum Lorem Ipsum</li>
+                        <li className='what-list-item'><GoDotFill className='go-dot' /> Lorem</li>
+                        <li className='what-list-item'><GoDotFill className='go-dot' /> Lorem</li>
+                        <li className='what-list-item'><GoDotFill className='go-dot' /> Lorem</li>
                     </ul>
                 </div>
                 <p className='what-text'>3 papers</p>
             </li>
             <li className='what-learn-list-item'>
                 <p className='what-text'>Knowledge Level</p>
-                <div>
+                <div className='what-div'>
                     <ul className='what-list'>
-                        <li className='what-list-item'><GoDotFill className='go-dot' /> Lorem Ipsum Lorem Ipsum</li>
-                        <li className='what-list-item'><GoDotFill className='go-dot' /> Lorem Ipsum Lorem Ipsum</li>
-                        <li className='what-list-item'><GoDotFill className='go-dot' /> Lorem Ipsum Lorem Ipsum</li>
+                        <li className='what-list-item'><GoDotFill className='go-dot' /> Lorem</li>
+                        <li className='what-list-item'><GoDotFill className='go-dot' /> Lorem</li>
+                        <li className='what-list-item'><GoDotFill className='go-dot' /> Lorem</li>
                     </ul>
                 </div>
                 <p className='what-text'>3 papers</p>
             </li>
             <li className='what-learn-list-item'>
                 <p className='what-text'>Knowledge Level</p>
-                <div>
+                <div className='what-div'>
                     <ul className='what-list'>
-                        <li className='what-list-item'><GoDotFill className='go-dot' /> Lorem Ipsum Lorem Ipsum</li>
-                        <li className='what-list-item'><GoDotFill className='go-dot' /> Lorem Ipsum Lorem Ipsum</li>
-                        <li className='what-list-item'><GoDotFill className='go-dot' /> Lorem Ipsum Lorem Ipsum</li>
+                        <li className='what-list-item'><GoDotFill className='go-dot' /> Lorem</li>
+                        <li className='what-list-item'><GoDotFill className='go-dot' /> Lorem</li>
+                        <li className='what-list-item'><GoDotFill className='go-dot' /> Lorem</li>
                     </ul>
                 </div>
                 <p className='what-text'>3 papers</p>

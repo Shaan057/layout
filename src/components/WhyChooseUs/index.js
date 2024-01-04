@@ -16,17 +16,17 @@ const WhyChooseUs = () => {
                 <li className='why-choose-list'>
                     <GiCeilingLight className='why-icons' />
                     <p>Expert Faculty</p>
-                    <p className='why-text'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p className='why-text'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor </p>
                 </li>
                 <li className='why-choose-list'>
                     <MdOutlineGroups2 />
                     <p>Complete Success Packege</p>
-                    <p className='why-text'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p className='why-text'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
                 </li>
                 <li className='why-choose-list'>
                     <FaEnvelopeOpenText />
                     <p>Placements</p>
-                    <p className='why-text'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p className='why-text'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
                 </li>
             </ul>
             <ul className='why-footer'>

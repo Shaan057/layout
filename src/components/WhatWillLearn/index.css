@@ -7,6 +7,8 @@
 }
 
 .what-learn-list-item {
+  display: flex;
+  flex-direction: column;
   width: 150px;
   height: 200px;
   box-shadow: 0px 0px 2px;
@@ -17,9 +19,12 @@
   background-color: navy;
   margin: 0px;
   padding: 10px;
+  font-size: 15px;
   color: white;
 }
-
+.what-div {
+  flex-grow: 1;
+}
 .what-you-learn-list {
   margin: 0px;
   padding: 10px 40px;

@@ -65,7 +65,8 @@
   align-items: center;
   justify-content: center;
   background-color: #b6cce84f;
-  padding: 10px;
+  flex-wrap: wrap;
+  padding: 20px;
   gap: 30px;
 }
 .register-form {
