@@ -1,0 +1,37 @@
+.what-will-bg {
+  text-align: center;
+}
+
+.go-dot {
+  font-size: 10px;
+}
+
+.what-learn-list-item {
+  width: 150px;
+  height: 200px;
+  box-shadow: 0px 0px 2px;
+  background-color: #f5f9fc;
+  border-radius: 4px;
+}
+.what-text {
+  background-color: navy;
+  margin: 0px;
+  padding: 10px;
+  color: white;
+}
+
+.what-you-learn-list {
+  margin: 0px;
+  padding: 10px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style: none;
+  gap: 30px;
+}
+
+.what-list {
+  list-style-type: none;
+  padding-left: 0px;
+  margin: 0px;
+}

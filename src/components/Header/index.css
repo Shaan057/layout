@@ -1,0 +1,23 @@
+.navBar {
+  position: sticky;
+  top: 0px;
+  background-color: #34107a;
+  color: white;
+  padding: 0px 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-items {
+  padding: 0px;
+  margin: 0px;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 35px;
+}
+
+.login-button {
+  padding: 3px;
+}

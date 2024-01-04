@@ -1,0 +1,19 @@
+.kick-bg {
+  background-color: #a2bddda0;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.kick-head {
+  font-size: 13px;
+}
+.kick-para {
+  font-size: 10px;
+}
+
+.button-kick {
+  background-color: orangered;
+  padding: 7px 10px;
+}

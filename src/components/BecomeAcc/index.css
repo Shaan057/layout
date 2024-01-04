@@ -1,0 +1,99 @@
+.become-acc-18-bg {
+}
+
+.become-acc-heading {
+  font-size: 20px;
+}
+
+.beacome-acc-para {
+  font-size: 12px;
+}
+
+.become-acc-list {
+  padding: 10px;
+  margin: 0px;
+  list-style: none;
+  display: flex;
+  gap: 10px;
+}
+.become-acc-list-item {
+  padding: 10px;
+  box-shadow: 1px 1px 10px grey;
+  text-align: center;
+  border-radius: 10px;
+}
+.become-icon {
+  margin: 2px;
+  display: flex;
+  gap: 5px;
+  font-size: 7px;
+  align-items: center;
+}
+
+.become-txt {
+  margin: 2px;
+  font-size: 7px;
+}
+
+.buttons-div-become {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.button-blue {
+  border-radius: 5px;
+  background-color: navy;
+  color: white;
+  outline: none;
+  border: none;
+  padding: 10px;
+  font-size: 10px;
+}
+.button-red {
+  background-color: orangered;
+  color: white;
+  outline: none;
+  border: none;
+  padding: 10px;
+  font-size: 10px;
+  border-radius: 5px;
+}
+
+.become-acc-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #b6cce84f;
+  padding: 10px;
+  gap: 30px;
+}
+.register-form {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.request-form {
+  flex-shrink: 0;
+  padding: 10px;
+  border: 1px solid grey;
+}
+.reg-input {
+  width: 100%;
+  padding: 2px;
+  outline: none;
+}
+.reg-input::placeholder {
+  font-size: 10px;
+}
+.become-heading-ACCA {
+  font-weight: 500;
+  font-size: 10px;
+  margin: 4px;
+  text-align: center;
+}
+
+.button-call-req {
+  width: 100%;
+  padding: 7px;
+}
